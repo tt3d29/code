@@ -1,0 +1,42 @@
+
+body{
+	background: #009b75;
+}
+
+ul {
+	color: #ffefdb;
+}
+
+section{
+	font-size: 15px; 
+	font-color: #000000;
+}
+
+.projects {
+	background-image: url('../img/shop.jpg');
+	background-attachment: fixed;
+	background-position: center 10px;
+}
+
+footer{
+	background-color: #d64541;
+	position:absolute;
+	width: 100%;
+}
+
+footer ul li{
+	display: inline block;
+	list-style: none;
+	padding: 2%;
+	float: right;
+}
+
+footer p{
+	float: left;
+	padding: 2%;
+}
+
+footer a, footer p{
+	color: #f7fafe;
+	vertical-align: middle;
+}
